@@ -4,7 +4,7 @@ Estimating Phillips Curve and the output gap in the Eurozone by using explainabl
 
 ## About
 
-This is the working repository of Reinis Fals and Igors Tatarinovs for the development of Bachelor's thesis about Estimating Phillips Curve and the output gap in the Eurozone by using explainable neural networks. The thesis expands on Columbe's, 2022 paper titled [A Neural Phillips Curve and a Deep Output Gap](https://doi.org/10.48550/arxiv.2202.04146) and extends the Hemisphere Neural Network to EU data.
+This is the working repository of Reinis Fals and Igors Tatarinovs for the development of Bachelor's thesis about Estimating Phillips Curve and the output gap in the Eurozone by using explainable neural networks. The thesis expands on Columbe's, 2022 paper titled [A Neural Phillips Curve and a Deep Output Gap](https://doi.org/10.48550/arxiv.2202.04146) and extends the Hemisphere Neural Network model to EU macroeconomic climate.
 
 
 
