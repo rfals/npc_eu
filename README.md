@@ -1,9 +1,19 @@
-npc eu
-==============================
+# npc eu
 
 Estimating Phillips Curve and the output gap in the Eurozone by using explainable neural networks.
 
-Project Organization
+## About
+
+This is the working repository of Reinis Fals and Igors Tatarinovs for the development of Bachelor's thesis about Estimating Phillips Curve and the output gap in the Eurozone by using explainable neural networks. The thesis expands on Columbe's, 2022 paper titled [A Neural Phillips Curve and a Deep Output Gap](https://doi.org/10.48550/arxiv.2202.04146) and extends the Hemisphere Neural Network model to EU macroeconomic climate.
+
+
+
+### Introduction
+
+In the realm of economic forecasting, accurately modeling the Phillips Curve (further in the research - PC)—the relationship between inflation and unemployment—remains a formidable challenge. Traditional approaches, such as Ordinary Least Squares (OLS) linear regressions, have offered limited insights, primarily due to their inability to capture the complex, nonlinear dynamics inherent within economic data. This research proposes a novel approach by exploring the application of explainable neural networks (NN) to estimate the PC and the output gap within the Eurozone, aiming to enhance both predictive accuracy and interpretability.
+
+
+## Project Organization
 ------------
 
     ├── LICENSE
@@ -53,5 +63,3 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
